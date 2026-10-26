@@ -2,9 +2,11 @@
 
 # Hi, I'm Azaria 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=500&lines=Junior+Software+Developer;Systems+%26+Low-Level+Programmer;Open+to+Internships+%26+Apprenticeships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=500&lines=Software+Developer;DevOps+%26+Infrastructure+Enthusiast;Systems+Programming+%26+Backend)](https://git.io/typing-svg)
 
-> Junior Software Developer · Systems & Low-Level Programming · Open to Internships & Apprenticeships
+**Software Developer · DevOps & Infrastructure · Systems Programming**
+
+Interested in building reliable software, managing infrastructure, and automating technical workflows.
 
 </div>
 
@@ -12,90 +14,132 @@
 
 ## About Me
 
-I'm a Junior Software Developer with a strong foundation in **C**, **C++**, and **Python**, developed through intensive, project-based training at **42 Antananarivo**.
+I'm a software developer trained at **42 Antananarivo**, with a strong foundation in C, C++, Python, and systems programming.
 
-I focus on **systems-level programming**, building low-level software such as Unix-like shells, graphics rendering engines, and containerized infrastructure. This experience has strengthened my understanding of operating systems, memory management, and software architecture.
+Through hands-on projects, I've developed practical experience with Linux, process management, networking concepts, and containerized infrastructure using Docker and Docker Compose.
 
-I'm currently seeking an **internship or apprenticeship** where I can contribute to real-world engineering teams, deepen my technical expertise, and grow as a software engineer in a production environment.
+I'm also expanding my skills in backend development, TypeScript, Next.js, NestJS, and PostgreSQL.
+
+I'm looking for opportunities to contribute to real-world projects, strengthen my infrastructure and database skills, and grow within a collaborative engineering team.
 
 ---
 
 ## Tech Stack
 
-### Core Languages
+### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Systems & Tools
+### DevOps & Systems
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square)
 
-### Web Basics
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+### Backend & Web Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
 ## Featured Projects
 
 ### 🐳 Inception — Containerized Infrastructure
-> Docker · Docker Compose · NGINX · WordPress · MariaDB · System Architecture
 
-A fully containerized multi-service infrastructure built from scratch using **Docker Compose**. Each service runs in its own isolated container:
+**Technologies:** Docker · Docker Compose · NGINX · WordPress · MariaDB
 
-- **NGINX** as the entry point, configured for TLS v1.2/v1.3 exclusively
-- **WordPress + PHP-FPM** for the application layer
-- **MariaDB** for persistent database storage
+- Containerized a multi-service application using Docker Compose.
+- Configured NGINX with TLS.
+- Managed service networking, persistent volumes, and dependencies.
 
-This project demonstrates hands-on expertise in **container orchestration**, network configuration, volume management, and secure service deployment.
+**Key areas:** Containerization, infrastructure configuration, networking, and service deployment.
 
 [View Repository →](https://github.com/Azaria-git/Inception)
 
 ---
 
+### ❤️ ft_transcendence — Heartbeat Social Network
+
+**Technologies:** Docker · Docker Compose · PostgreSQL · NestJS · Next.js · Prisma · NGINX · LocalStack
+
+A collaborative full-stack social network developed as part of the 42 curriculum, featuring user profiles, friendships, real-time messaging, and media sharing.
+
+- **Infrastructure:** Containerized frontend, backend, database, and supporting services using Docker Compose.
+- **Database:** PostgreSQL with Prisma ORM and database migrations.
+- **Networking:** Configured NGINX as an HTTPS reverse proxy.
+- **Storage:** Integrated LocalStack for S3-compatible file storage.
+- **Collaboration:** Worked in a four-person team using GitHub Issues, pull requests, and code reviews.
+
+**Key areas:** Multi-service infrastructure, relational databases, container orchestration, and collaborative development.
+
+[View Repository →](https://github.com/Azaria-git/ft_transcendence)
+
+---
+
 ### 🖥️ Minishell — Unix Shell in C
-> C · Unix · Process Management · Parsing · System Calls
 
-A functional Unix shell built entirely in **C**, replicating core Bash behavior:
+**Technologies:** C · Unix · Processes · File Descriptors · Signals
 
-- Command execution with full `PATH` resolution
-- Pipes (`|`) and I/O redirections (`<`, `>`, `>>`, `<<`)
-- Environment variable expansion and built-in commands (`cd`, `export`, `unset`, `env`, `exit`)
-- Proper signal handling (`Ctrl+C`, `Ctrl+D`, `Ctrl+\`)
+- Implemented command execution and PATH resolution.
+- Handled pipes, redirections, and environment variables.
+- Managed processes and Unix signals.
 
-A deep dive into **POSIX system calls**, process forking, file descriptors, and robust parsing logic.
+**Key areas:** Linux/Unix systems programming and process management.
 
 [View Repository →](https://github.com/Azaria-git/minishell)
 
 ---
 
-### 🎮 Cub3D — Raycasting 3D Engine
-> C · MLX Graphics Library · Raycasting · Linear Algebra · Low-Level Rendering
+### 🎮 Cub3D — 3D Raycasting Engine
 
-A 3D game engine built from scratch in **C** using the raycasting technique — the same algorithm that powered early games like Wolfenstein 3D:
+**Technologies:** C · MiniLibX · Raycasting · Graphics
 
-- Real-time rendering of a 3D perspective from a 2D map
-- Texture mapping on walls with directional faces
-- Smooth player movement and collision detection
-- Rendered using the **MiniLibX (MLX)** graphics library
+- Implemented real-time 3D rendering from a 2D map.
+- Added wall textures, player movement, and collision detection.
 
-Demonstrates strong skills in **graphics programming**, geometry, and performance-conscious low-level development.
+**Key areas:** Low-level programming, geometry, and rendering.
 
 [View Repository →](https://github.com/Azaria-git/Cub-3D)
 
 ---
 
-## Current Goals
+### 🌐 webserv — HTTP Server in C++
+**Technologies:** C++ · HTTP · TCP/IP · Sockets · Linux
 
-- 🔍 Actively seeking an **internship or apprenticeship** (open to remote or on-site)
-- 📚 Deepening knowledge in **backend development** and **systems programming**
-- 🛠️ Exploring **DevOps practices**, CI/CD pipelines, and cloud infrastructure
-- 🤝 Contributing to open-source projects to build real-world collaboration experience
+- Implemented an HTTP server in C++ using low-level networking concepts.
+- Worked with HTTP requests and responses, socket communication, and server configuration.
+- Explored non-blocking I/O, connection handling, and request routing.
+
+**Key areas:** Linux networking, TCP/IP, HTTP protocol, and systems programming.
+
+[View Repository →](https://github.com/Azaria-git/webserv)
+
+---
+
+## Current Focus
+
+- 🐳 Improving my Docker and Docker Compose skills.
+- 🐧 Strengthening my Linux and system administration knowledge.
+- 🗄️ Learning more about PostgreSQL and relational databases.
+- ⚙️ Exploring CI/CD automation and cloud infrastructure.
+- 💻 Developing backend applications with TypeScript, NestJS, and Next.js.
 
 ---
 
@@ -126,14 +170,14 @@ Demonstrates strong skills in **graphics programming**, geometry, and performanc
 
 ## Contact
 
-I'm open to opportunities, collaborations, and conversations.
+I'm open to opportunities, collaborations, and technical discussions.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azaria.ravelomanana.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azariaravelomanana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravelomanana-azaria/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Azaria-git)
 
----
-
 <div align="center">
-<sub>Open to work · Junior Software Developer · Systems & Infrastructure</sub>
+
+<sub>Software Development · DevOps · Infrastructure · Systems Programming</sub>
+
 </div>
